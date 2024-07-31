@@ -1,0 +1,2 @@
+import"./assets/main-f60f18dc.js";import e from"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.mjs";import"./assets/vendor-8f98089f.js";document.addEventListener("DOMContentLoaded",function(){new e(".swiper",{direction:"horizontal",loop:!0,slidesPerView:2.5,spaceBetween:20,navigation:{nextEl:".custom-next",prevEl:".custom-prev"},allowTouchMove:!0})});
+//# sourceMappingURL=commonHelpers.js.map
